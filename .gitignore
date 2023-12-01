@@ -1,0 +1,17 @@
+/compile_commands.json
+/.cache
+/.vscode
+/build
+/ENV.CMake
+
+# C#
+**/bin
+**/obj
+
+# Rust
+**/target
+
+/boost_1_81_0
+
+/.dockerignore
+/Dockerfile
