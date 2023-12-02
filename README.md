@@ -4,6 +4,7 @@ This repository is intended for peer review of the paper _stackful coroutine mad
 
 It includes source code of:
 * an early version of stackful coroutine library for ease of use in the experiments: **/common/photonlib**
+* in-stack generator: **/common/photonlib/gen.h**
 * scheduler for boost: **/common/fibsched**
 * scheduler for C++20 stackless coroutine: **/common/co20executor**
 * benchmarks: **/*-test**
